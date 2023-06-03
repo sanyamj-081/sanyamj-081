@@ -5,7 +5,7 @@
 <p align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyamjain081?original_referer=)
-[![GMAIL Badge](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:sanyamj081@gmail.com)
+<!-- [![GMAIL Badge](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:sanyamj081@gmail.com) -->
 [![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/sanyamj081/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sanyamj081/)
 </p>
