@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
-
 <h2> ⚡ Reach Me Out!!</h2>
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 
 <p >
- <a href="https://github.com/sanyamj-081"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech;Computer+Science+Information+Technology;Learning+Android+Development+using+Kotlin;Brushing+up+DSA" /></a>
+ <a href="https://github.com/sanyamj-081"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=B.Tech+Computer+Science;Android+Development+using+Kotlin;ASP.NET+Angular;Brushing+up+DSA" /></a>
  <a href="https://github.com/sanyamj-081"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 
 </p>
@@ -30,9 +28,6 @@
 
 <h2> Leetcode </h2>
 
-<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/hanua_30?theme=unicorn)](https://leetcode.com/hanua_30/)
- -->
- 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sanyamj081?theme=light,unicorn)](https://leetcode.com/sanyamj081/)
 
 
