@@ -10,7 +10,7 @@
 
 
 <p >
- <a href="https://github.com/sanyamj-081"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Building Intelligent Chatbots & Real-Time AI Agents,SignalR,Lucene,Orleans,DotNET Core,Python,gRPC,Data Science" /></a>
+ <a href="https://github.com/sanyamj-081"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Building Intelligent Chatbots & Real-Time AI Agents;SignalR;Lucene;Orleans;DotNET Core;Python;gRPC;Data Science" /></a>
  <a href="https://github.com/sanyamj-081"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 
 </p>
